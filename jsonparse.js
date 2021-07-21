@@ -1,4 +1,5 @@
-/*global Buffer*/
+var Buffer = require('buffer/').Buffer;
+
 // Named constants with unique integer values
 var C = {};
 // Tokens
